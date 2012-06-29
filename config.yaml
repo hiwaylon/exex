@@ -1,0 +1,6 @@
+entities:
+-
+    name: world_seed
+    behaviors:
+    -
+        name: create_world
