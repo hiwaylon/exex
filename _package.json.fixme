@@ -1,0 +1,11 @@
+{
+        "name": "exex",
+                "description": "Explore, Exploit!",
+                "author": "Waylon",
+                "dependencies": {
+                },
+                "devDependencies": {
+                        //"vows": "0.5.x"
+                },
+                //"engine": "node >= 0.4.1"
+}
